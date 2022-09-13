@@ -1,4 +1,4 @@
-# FrontendMentor - Interactive rating component (01)
+# Frontend Mentor - Interactive rating component (01)
 
 # Frontend Mentor - Interactive rating component
 
