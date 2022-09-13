@@ -12,6 +12,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 - CSS Grid
 - Mobile-first workflow
 - JS
+
 ## Author
 - Website - Dino Ferre https://github.com/dinoferre/
 - Frontend Mentor - @dinoferre https://www.frontendmentor.io/profile/dinoferre 
